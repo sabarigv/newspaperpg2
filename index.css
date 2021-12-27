@@ -1,0 +1,49 @@
+.company{
+    text-align: end;
+    position: absolute;
+    top: 15px;
+    right: 40px;
+}
+.newspaper1 {
+  columns: 100px 2;
+  border-bottom: red solid;
+  padding: 10px;
+}
+
+.newspaper2 {
+  columns: 50px 3;
+  text-align: justify;
+  border-bottom: solid red;
+}
+.end{
+    padding: 5px;
+    text-align: center;
+    font-style: oblique;
+}
+.img1{
+    height: 400px;
+    width: 600px;
+}
+.tag{
+    text-align: center;
+    border-bottom: 1px solid blue;
+    padding: 10px;
+}
+.head{
+    text-align: center;
+    border-bottom: 1px solid blue;
+    padding: 10px;
+}
+.para1{
+    text-align: justify;
+}
+.img2,.img3,.img4{
+    height: 300px;
+    width: 400px;
+}
+.main-container{
+    border-bottom: 1px solid blue;
+}
+.date-company{
+    padding: 15px;
+}
